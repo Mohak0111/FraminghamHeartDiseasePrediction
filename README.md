@@ -12,6 +12,6 @@ To install the app, clone the repository and run the following commands:
 ```bash
 virtualenv env
 source env/bin/activate
-pip install -r requirements.txt
+pip install -r req.txt
 streamlit run app.py
 ```
