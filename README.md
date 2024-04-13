@@ -15,3 +15,5 @@ source env/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+>The models are hosted at: https://framinghamheartdiseaseprediction.streamlit.app/
