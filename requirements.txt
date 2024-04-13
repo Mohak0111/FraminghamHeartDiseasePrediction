@@ -84,7 +84,6 @@ plotly==5.20.0
 prompt-toolkit==3.0.43
 protobuf==4.25.1
 psutil==5.9.4
-psycopg2==2.9.5
 pyarrow==14.0.1
 pycparser==2.21
 pycryptodome==3.10.4
